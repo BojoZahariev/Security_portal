@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "electron": "^8.2.3",
+    "electron": "^18.3.7",
     "electron-packager": "^14.2.1",
     "nedb": "^1.8.0"
   },
